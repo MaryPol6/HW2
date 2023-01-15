@@ -1,0 +1,15 @@
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.csproj.AssemblyReference.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.AssemblyInfoInputs.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.AssemblyInfo.cs
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.csproj.CoreCompileInputs.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/bin/Debug/net7.0/hw2_2
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/bin/Debug/net7.0/hw2_2.deps.json
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/bin/Debug/net7.0/hw2_2.runtimeconfig.json
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/bin/Debug/net7.0/hw2_2.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/bin/Debug/net7.0/hw2_2.pdb
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/refint/hw2_2.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.pdb
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/hw2_2.genruntimeconfig.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec2/HW/hw2_2/obj/Debug/net7.0/ref/hw2_2.dll
